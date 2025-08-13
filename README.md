@@ -27,8 +27,8 @@ The challenge is to build out this recipe page and get it looking as close to th
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/Chantal-Yvonne/recipe-page)
-- Live Site URL: [Add live site URL here]( https://chantal-yvonne.github.io/blog-preview-card/)
+- Solution URL: [https://github.com/Chantal-Yvonne/recipe-page](https://github.com/Chantal-Yvonne/recipe-page)
+- Live Site URL: [https://chantal-yvonne.github.io/recipe-page/]( https://chantal-yvonne.github.io/recipe-page/)
 
 ### Built with
 
