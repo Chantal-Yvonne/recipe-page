@@ -22,29 +22,27 @@ The challenge is to build out this recipe page and get it looking as close to th
 
 ### Screenshot
 
-![Screenshot of the finished Blog preview card ](./assets/images/desktop-1440px.png)
-![Screenshot of the finished Blog preview card ](./assets/images/mobile-preview.png)
+![Screenshot of the finished Blog preview card-desktop ](./assets/images/recipe-pge-desktop.png)
+![Screenshot of the finished Blog preview card-mobile ](./assets/images/recipe-pge-mobile.png)
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/Chantal-Yvonne/blog-preview-card)
+- Solution URL: [GitHub Repo](https://github.com/Chantal-Yvonne/recipe-page)
 - Live Site URL: [Add live site URL here]( https://chantal-yvonne.github.io/blog-preview-card/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
 ### What I learned
-
+With this challenge I have learnt how to start with small screens to create  simple layout and to add complexity at larger breakpoints.I have also learned how to use counter-reset,counter-increment, and counter(name) to create custom numbering. 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will continue to practice the mobile first approach and enhance layout complexity only when needed
 
 ## Author
 
