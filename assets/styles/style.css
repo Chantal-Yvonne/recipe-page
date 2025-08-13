@@ -1,10 +1,10 @@
 @font-face {
-    font-family: Outfit;
+    font-family: outfit;
     src: url(../fonts/outfit/Outfit-VariableFont_wght.ttf);
 }
 
 @font-face {
-    font-family: Young-serif;
+    font-family: young-serif;
     src: url(../fonts/young-serif/YoungSerif-Regular.ttf);
 }
 
@@ -48,7 +48,7 @@
 }
 
 .recipe-info h1 {
-    font-family: Young-serif;
+    font-family: young-serif;
     font-size: 2rem;
     font-weight: 400;
     color: var(-stone-900);
@@ -56,7 +56,7 @@
 }
 
 .recipe-info p {
-    font-family: Outfit;
+    font-family: outfit;
     font-weight: 400;
     font-size: 1rem;
     color: var(--stone-600);
@@ -66,7 +66,7 @@
 .prep-time {
     padding: 1rem 1.5rem;
     margin: 0 auto;
-    font-family: Outfit;
+    font-family: outfit;
 }
 
 .prep-time-bg {
@@ -126,7 +126,7 @@
 }
 
 .ingredients h2 {
-    font-family: Young-serif;
+    font-family: young-serif;
     font-weight: 400;
     font-size: 1.75rem;
     color: var(--brown-800);
@@ -145,7 +145,7 @@
 
 .instruction h2 {
     color: var(--brown-800);
-    font-family: Young-serif;
+    font-family: young-serif;
     font-size: 1.75rem;
     font-weight: 400;
     margin-bottom: 1rem;
@@ -160,7 +160,7 @@
     counter-increment: step;
     position: relative;
     padding-left: 30px;
-    font-family: Outfit;
+    font-family: outfit;
     color: var(--stone-600);
     margin-bottom: 1.25rem;
 }
@@ -171,7 +171,7 @@
     left: 0;
     color: var(--brown-800);
     font-weight: bolder;
-    font-family: Outfit;
+    font-family: outfit;
 }
 
 /* ==========Nutrition info========== */
@@ -180,7 +180,7 @@
 }
 
 .nutrition-info h3 {
-    font-family: Young-serif;
+    font-family: young-serif;
     font-size: 2rem;
     font-weight: 400;
     color: var(--brown-800);
@@ -188,7 +188,7 @@
 }
 
 .nutrition-info p {
-    font-family: Outfit;
+    font-family: outfit;
     color: var(--stone-600);
     margin-bottom: 1.25rem;
 }
@@ -196,7 +196,7 @@
 .table {
     border-collapse: collapse;
     width: 100%;
-    font-family: Outfit;
+    font-family: outfit;
 }
 
 .nutrition-info .table td {
